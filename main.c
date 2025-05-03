@@ -309,7 +309,7 @@ restart:;
             }
 
             wmove(main_window, 0, g_main_win.padding);
-            wprintw(main_window, "Timer: %3lu sec |\t WPM: %3d |\t CPM: %3d", timer_sec, wpm, cpm);
+            wprintw(main_window, "Timer: %3lu sec | WPM: %3d | CPM: %3d", timer_sec, wpm, cpm);
             wrefresh(main_window);
         }
         char ch = getch();
