@@ -2,6 +2,8 @@
 
 A minimal terminal-based typing speed tester written in C.
 
+![Demo of typing speed program](sttt.png)
+
 ## Description
 
 This program reads words from a words.txt file (words separated by whitespace).
