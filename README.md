@@ -2,7 +2,7 @@
 
 A minimal terminal-based typing speed tester written in C.
 
-![Demo of typing speed program](sttt.png)
+![Demo of typing speed program](demo.png)
 
 ## Description
 
